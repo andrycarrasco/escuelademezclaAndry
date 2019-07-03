@@ -71,6 +71,10 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+#DJuno{
+	width: 300px;
+	height: 200px;
+}
 
 /* Basic */
 
