@@ -142,7 +142,13 @@ input, select, textarea {
 		background-color: #fff;
 		color: #aaa;
 	}
-
+	#mapa{
+	
+		padding: 3rem 1rem 0 1rem  ;
+	}
+	#user{
+		font-weight: bold;
+	}
 	body, input, select, textarea {
 		font-family: "Roboto", Helvetica, sans-serif;
 		font-weight: 400;
